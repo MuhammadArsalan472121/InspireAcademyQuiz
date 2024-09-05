@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074531954623",
+    "project_id": "inspire-academy-quiz",
+    "storage_bucket": "inspire-academy-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074531954623:android:154bb78035fa3300c0bb0a",
+        "android_client_info": {
+          "package_name": "com.inspireacademyquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeP5OWLGaWkVE9RVkMTs0juhVlR8H6pSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
